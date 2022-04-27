@@ -24,8 +24,8 @@
 ## Model Result
 
 ### Training and Validation Loss
-![loss](./img/loss_plot.png)
+![loss](./img/model_loss.svg)
 
 ### Confusion Matrix
-![conf-matrix](./img/conf_matrix.png)
+![conf-matrix](./img/conf_mat.svg)
 
